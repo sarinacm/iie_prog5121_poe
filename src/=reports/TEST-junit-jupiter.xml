@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JUnit Jupiter" tests="0" skipped="0" failures="0" errors="0" time="0.01" hostname="VCDHADMHOSLP05" timestamp="2022-01-31T15:20:32">
+<properties>
+<property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+<property name="file.encoding" value="Cp1252"/>
+<property name="file.separator" value="\"/>
+<property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+<property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+<property name="java.class.path" value="../lib/junit-platform-console-standalone-1.6.0.jar"/>
+<property name="java.class.version" value="55.0"/>
+<property name="java.home" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.10.9-hotspot"/>
+<property name="java.io.tmpdir" value="C:\Users\ctill\AppData\Local\Temp\"/>
+<property name="java.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.10.9-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\AdoptOpenJDK\jdk-11.0.10.9-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Genymobile\Genymotion\tools;C:\Users\ctill\AppData\Local\Android\Sdk\platform-tools;C:\Ruby26-x64\bin;C:\Users\ctill\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\ctill\AppData\Local\Programs\Python\Python39\;C:\Users\ctill\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Azure Data Studio\bin;C:\Users\ctill\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ctill\AppData\Roaming\npm;C:\Users\ctill\.dotnet\tools;."/>
+<property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+<property name="java.runtime.version" value="11.0.10+9"/>
+<property name="java.specification.name" value="Java Platform API Specification"/>
+<property name="java.specification.vendor" value="Oracle Corporation"/>
+<property name="java.specification.version" value="11"/>
+<property name="java.vendor" value="AdoptOpenJDK"/>
+<property name="java.vendor.url" value="https://adoptopenjdk.net/"/>
+<property name="java.vendor.url.bug" value="https://github.com/AdoptOpenJDK/openjdk-support/issues"/>
+<property name="java.vendor.version" value="AdoptOpenJDK"/>
+<property name="java.version" value="11.0.10"/>
+<property name="java.version.date" value="2021-01-19"/>
+<property name="java.vm.compressedOopsMode" value="Zero based"/>
+<property name="java.vm.info" value="mixed mode"/>
+<property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+<property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+<property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+<property name="java.vm.specification.version" value="11"/>
+<property name="java.vm.vendor" value="AdoptOpenJDK"/>
+<property name="java.vm.version" value="11.0.10+9"/>
+<property name="jdk.debug" value="release"/>
+<property name="line.separator" value="
+"/>
+<property name="os.arch" value="amd64"/>
+<property name="os.name" value="Windows 10"/>
+<property name="os.version" value="10.0"/>
+<property name="path.separator" value=";"/>
+<property name="sun.arch.data.model" value="64"/>
+<property name="sun.boot.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.10.9-hotspot\bin"/>
+<property name="sun.cpu.endian" value="little"/>
+<property name="sun.cpu.isalist" value="amd64"/>
+<property name="sun.desktop" value="windows"/>
+<property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+<property name="sun.java.command" value="../lib/junit-platform-console-standalone-1.6.0.jar -cp . --select-class TestLogin --reports-dir =reports"/>
+<property name="sun.java.launcher" value="SUN_STANDARD"/>
+<property name="sun.jnu.encoding" value="Cp1252"/>
+<property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+<property name="sun.os.patch.level" value=""/>
+<property name="sun.stderr.encoding" value="cp437"/>
+<property name="sun.stdout.encoding" value="cp437"/>
+<property name="user.country" value="ZA"/>
+<property name="user.dir" value="C:\Users\ctill\Documents\PROG POE\hello_ci\hello-ci\src"/>
+<property name="user.home" value="C:\Users\ctill"/>
+<property name="user.language" value="en"/>
+<property name="user.name" value="ctill"/>
+<property name="user.script" value=""/>
+<property name="user.timezone" value="Africa/Harare"/>
+<property name="user.variant" value=""/>
+</properties>
+<system-out><![CDATA[
+unique-id: [engine:junit-jupiter]
+display-name: JUnit Jupiter
+]]></system-out>
+</testsuite>
