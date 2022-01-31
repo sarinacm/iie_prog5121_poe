@@ -25,13 +25,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # change directory to run tests 
-      - name: change to src folder 
-        run: cd src
-
-      # change again
-      - name: change to src folder 
-        run: cd src
+   
 
 
       # list contents or directory
