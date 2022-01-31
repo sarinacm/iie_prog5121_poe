@@ -25,9 +25,12 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
+      # change directory to run tests 
+      - name: change to lib folder 
+        run: cd /libs
+
       # Runs a single command using the runners shell
       - name: execute tests
-      run  cd /lib
         run: java -jar org_junit_platform_junit-platform-console-standalone_1.6.0_junit-platform-console-standalone-1.6.0
 
     
