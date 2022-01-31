@@ -27,7 +27,7 @@ jobs:
 
       # change directory to run tests 
       - name: change to lib folder 
-        run: cd /libs
+        run: cd /lib
 
       # Runs a single command using the runners shell
       - name: execute tests
