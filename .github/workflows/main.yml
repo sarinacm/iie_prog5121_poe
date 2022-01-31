@@ -27,6 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: execute tests
+      run  cd /lib
         run: java -jar org_junit_platform_junit-platform-console-standalone_1.6.0_junit-platform-console-standalone-1.6.0
 
     
