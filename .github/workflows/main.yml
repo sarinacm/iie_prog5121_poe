@@ -29,6 +29,11 @@ jobs:
       - name: change to src folder 
         run: cd src
 
+      # change again
+      - name: change to src folder 
+        run: cd src
+
+
       # list contents or directory
       - name: List contents
         run: ls
