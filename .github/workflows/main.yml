@@ -39,6 +39,7 @@ jobs:
 
       #run tests and output report 
       - name: run tests and create report 
+        working-directory: ./lib
         run: java -jar ../lib/junit-platform-console-standalone-1.6.0.jar -cp "." --select-class TestLogin --reports-dir ="reports"
 
     
