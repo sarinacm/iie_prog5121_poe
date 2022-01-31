@@ -31,7 +31,7 @@ jobs:
 
       # list contents or directory
       - name: List contents
-       run: ls
+        run: ls
 
       # Compiles classes to test 
       - name: compile classes
