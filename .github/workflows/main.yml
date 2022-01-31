@@ -25,7 +25,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-        working-directory: ./src
+   
 
 
       # list contents or directory
@@ -34,6 +34,7 @@ jobs:
 
       # Compiles classes to test 
       - name: compile classes
+        working-directory: ./src
         run: javac -cp "../lib/junit-platform-console-standalone-1.6.0.jar" App.java Login.java TestLogin.java
 
       #run tests and output report 
