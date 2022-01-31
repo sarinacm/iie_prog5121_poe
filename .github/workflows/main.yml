@@ -27,7 +27,7 @@ jobs:
 
       # change directory to run tests 
       - name: change to src folder 
-        run: cd /src
+        run: cd ./src
 
       # Compiles classes to test 
       - name: compile classes
