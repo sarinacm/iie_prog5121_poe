@@ -29,6 +29,10 @@ jobs:
       - name: change to src folder 
         run: cd ./src
 
+      # list contents or directory
+      - name: List contents
+       run: ls
+
       # Compiles classes to test 
       - name: compile classes
         run: javac -cp "../lib/junit-platform-console-standalone-1.6.0.jar" App.java Login.java TestLogin.java
